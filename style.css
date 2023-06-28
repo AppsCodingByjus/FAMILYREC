@@ -1,0 +1,22 @@
+body 
+{
+   background-color: rgb(128, 173, 135);
+}
+
+.heading
+{
+    background-color: rgb(164, 197, 179);
+    width: 500px;
+    border: 2px solid black;
+    border-style: ridge;
+}
+
+.name_of_members
+{
+    background-color: rgb(211, 226, 177);
+    color:black;
+    width: 100px;
+
+    
+}
+
